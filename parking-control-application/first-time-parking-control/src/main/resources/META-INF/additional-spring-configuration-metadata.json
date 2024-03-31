@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.comparing.size",
+  "type": "java.lang.String",
+  "description": "A description for 'app.comparing.size'"
+}]}
